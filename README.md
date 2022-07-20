@@ -10,6 +10,9 @@ the output format is <pid>@<fdpath>
 ...
 ```
 
+## note
+the check is based on the path string and the the inode!
+
 ## build from source
 ```sh
 >>> cd whoopen
